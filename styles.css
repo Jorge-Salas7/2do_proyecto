@@ -1,0 +1,85 @@
+body {
+    background-color: rgb(122, 216, 233);
+}
+h1 {
+    text-align: center;
+    color: rgb(255, 0, 212);
+    font-size: 500%;
+}
+
+#iniciar {
+    background-color: rgb(248, 212, 4); 
+  color: black; 
+  border: 2px solid #d67e44;
+  width: 100%;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  font-size: 500%;
+  font-style: oblique;
+  } 
+#iniciar:hover{
+    background-color: #d67e44;
+  color: white;
+  }
+
+  main {
+    background-color: rgb(182, 245, 131);
+  }
+
+  #text {
+    text-align: center;
+    font-size: 200%;
+  }
+  #text2 {
+    text-align: center;
+  }
+  #text3 {
+    text-align: center;
+  }
+  #text4 {
+    text-align: center;
+  }
+  #text5 {
+    text-align: center;
+  }
+
+img {
+  margin-top: 2%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
+
+
+
+
+@media (min-width: 576px) {
+  .custom-class {
+    display: block;
+  }
+}
+
+@media (min-width: 768px) {
+  .custom-class {
+    display: block;
+  }
+}
+
+@media (min-width: 992px) {
+  .custom-class {
+    display: block;
+  }
+}
+
+@media (min-width: 1200px) {
+  .custom-class {
+    display: block;
+  }
+}
+
+@media (min-width: 1400px) {
+  .custom-class {
+    display: block;
+  }
+}
